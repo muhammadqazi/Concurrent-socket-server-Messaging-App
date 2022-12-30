@@ -1,6 +1,5 @@
 ### Computer Network Design and Applications
 
-#### Short Message Server Project
 
 
 #### Recommendations & Rules:
